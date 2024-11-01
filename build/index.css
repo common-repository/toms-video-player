@@ -1,0 +1,117 @@
+/*!*********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/assets/edit.scss ***!
+  \*********************************************************************************************************************************************************************************************************************************************/
+.toms-video-player {
+  display: flex;
+  flex-wrap: wrap;
+}
+/*!**********************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/assets/video.scss ***!
+  \**********************************************************************************************************************************************************************************************************************************************/
+.toms-video-player-panel-body {
+  border-top: 1px solid #ccc !important;
+  background-color: rgba(172, 247, 162, 0.32);
+}
+.toms-video-player-panel-body h2:hover {
+  background-color: #acf7a2 !important;
+}
+.toms-video-player-panel-body h2 button:focus {
+  box-shadow: inset 0 0 0 var(--wp-admin-border-width-focus) #2196f3 !important;
+}
+
+.toms-video-player-content {
+  width: 100%;
+  height: auto;
+  margin: 0 5px 5px 5px;
+}
+.toms-video-player-content .toms-video-player-default-image {
+  text-align: center;
+}
+
+/* Video Url */
+.toms-video-player-url {
+  display: flex;
+}
+.toms-video-player-url label {
+  font-weight: bold;
+}
+.toms-video-player-url .toms-video-player-video-main-url {
+  flex: 1;
+  margin-bottom: 0px !important;
+}
+
+.toms-video-player-main-media-botton {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.toms-video-player-main-media-botton .toms-video-player-main-media-botton-remove {
+  margin: 8px;
+}
+.toms-video-player-main-media-botton .toms-video-player-main-media-botton-remove .toms-video-player-main-media-botton-remove-icon {
+  color: #c50f0f;
+  transition: transform 0.3s ease-out;
+}
+.toms-video-player-main-media-botton .toms-video-player-main-media-botton-remove .toms-video-player-main-media-botton-remove-icon:hover {
+  color: #ff0000;
+  transform: scale(1.25) rotate(180deg);
+}
+
+.toms-video-player-main-options {
+  display: flex;
+}
+.toms-video-player-main-options .toms-video-player-main-type {
+  flex: 1;
+  margin: 0 1px 0 0;
+}
+.toms-video-player-main-options .toms-video-player-width {
+  flex: 1;
+  margin: 0 1px 0 1px;
+}
+.toms-video-player-main-options .toms-video-player-height {
+  flex: 1;
+  margin: 0 0 0 1px;
+  margin-bottom: 0 !important;
+}
+
+/* Poster image */
+.toms-video-player-poster-lock {
+  margin-top: 10px;
+}
+.toms-video-player-poster-lock p {
+  margin-bottom: 0;
+}
+
+.toms-video-player-poster {
+  display: flex;
+  margin-top: 0;
+}
+.toms-video-player-poster label {
+  font-weight: bold;
+}
+.toms-video-player-poster .toms-video-player-poster-url {
+  flex: 1;
+  margin-bottom: 0 !important;
+}
+
+.toms-video-player-poster-media {
+  display: flex;
+  justify-content: flex-end;
+}
+.toms-video-player-poster-media .toms-video-player-poster-media-button-remove {
+  margin: 8px;
+}
+.toms-video-player-poster-media .toms-video-player-poster-media-button-remove .toms-video-player-poster-media-button-remove-icon {
+  color: #c50f0f;
+  transition: transform 0.3s ease-out;
+}
+.toms-video-player-poster-media .toms-video-player-poster-media-button-remove .toms-video-player-poster-media-button-remove-icon:hover {
+  color: #ff0000;
+  transform: scale(1.25) rotate(180deg);
+}
+/*!***************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/css-loader/dist/cjs.js??ruleSet[1].rules[3].use[1]!./node_modules/postcss-loader/dist/cjs.js??ruleSet[1].rules[3].use[2]!./node_modules/sass-loader/dist/cjs.js??ruleSet[1].rules[3].use[3]!./src/index.scss ***!
+  \***************************************************************************************************************************************************************************************************************************************/
+
+
+/*# sourceMappingURL=index.css.map*/

@@ -1,0 +1,265 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Video Player\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-08-30 10:21+0000\n"
+"PO-Revision-Date: 2021-10-15 08:53+0000\n"
+"Last-Translator: \n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.4; wp-5.8.1\n"
+"X-Domain: toms-video-player\n"
+
+#: src/blocks/video.js:138
+msgid "Auto Picture in picture"
+msgstr "自动画中画"
+
+#: src/blocks/video.js:146
+msgid "AutoPlay"
+msgstr "自动播放"
+
+#: src/blocks/video.js:371
+msgid "Change a Video"
+msgstr "更换视频"
+
+#: src/blocks/video.js:400
+msgid "Change an image"
+msgstr "更换图像"
+
+#: src/blocks/video.js:371
+msgid "Choose a Video"
+msgstr "选择一个视频"
+
+#: src/blocks/video.js:400
+msgid "Choose an image"
+msgstr "选择一个图像"
+
+#: src/blocks/video.js:192
+msgid "Controls List Options"
+msgstr "Controls List 选项"
+
+#: src/blocks/video.js:122
+msgid "Disabled Picture in picture"
+msgstr "禁用画中画"
+
+#: src/blocks/video.js:178
+msgid "Disabled Responsive Video Size"
+msgstr "禁用视频自适应"
+
+#: src/blocks/video.js:130
+msgid "Disabled Save video as..."
+msgstr "禁用视频另存为..."
+
+#: src/blocks/video.js:348
+msgid "e.g. video/mp4"
+msgstr "例如: video/mp4"
+
+#: src/blocks/video.js:408
+msgid "Empty Poster image URL !"
+msgstr "清空图片地址！"
+
+#: src/blocks/video.js:379
+msgid "Empty this video URL!"
+msgstr "清空视频地址！"
+
+#: src/blocks/video.js:101
+msgid ""
+"Enabled this option, A URL for an image to be shown while the video is "
+"downloading. If this attribute isn't specified, nothing is displayed until "
+"the first frame is available, then the first frame is shown as the poster "
+"frame."
+msgstr "选择一张图片作为视频海报."
+
+#: src/blocks/video.js:147
+msgid ""
+"Enabled this option, the video automatically begins to play back as soon as "
+"it can do so without stopping to finish loading the data. This may cause "
+"usability issues for some users."
+msgstr "启用此选项后，视频会在不停止加载数据的情况下立即开始播放。"
+
+#: src/blocks/video.js:353
+msgid "Height"
+msgstr "高度"
+
+#. Author URI of the plugin
+msgid "https://TomSneddon.org"
+msgstr "https://TomSneddon.org"
+
+#: src/blocks/video.js:171
+msgid ""
+"If enabled this option that the video is to be played 'inline', that is "
+"within the element&apos;s playback area. Note that the absence of this "
+"attribute does not imply that the video will always be played in fullscreen."
+"Enable Video Auto Picture in picture"
+msgstr ""
+"如果启用此选项，该视频将播放\"内联\"，则位于元素的播放区域内。请注意，此属性的缺失并不意味着视频将始终在全屏上播放。在图片中启用视频自动图片"
+
+#: src/blocks/video.js:163
+msgid ""
+"If enabled, the audio will be initially silenced. Its default value is "
+"Disabled, meaning that the audio will be played when the video is played."
+msgstr "如果启用，音频将最初被静音。其默认值是禁用的，这意味着当播放视频时将播放音频。"
+
+#: src/blocks/video.js:155
+msgid ""
+"If enabled, the browser will automatically seek back to the start upon "
+"reaching the end of the video."
+msgstr "循环播放视频。"
+
+#: src/blocks/video.js:131
+msgid "If enabled, the Video screens will not be able to right-click."
+msgstr "如果启用，视频界面将禁止鼠标右键。"
+
+#: src/blocks/video.js:179
+msgid "If enabled, will remove the responsive style from the video elememt"
+msgstr "启用后，将从视频中移除自适应样式"
+
+#: src/blocks/video.js:187
+msgid "If enabled, you can customize width and height in the video elememt"
+msgstr "启用后，您可以手动设置视频的宽度和高度，您需要开启禁用视频自适应， 否则不会有任何效果，但是会添加宽度和高度属性给HTML5视频元素。"
+
+#: src/blocks/video.js:139
+msgid ""
+"If this attribute is enabled that the element should automatically toggle "
+"picture-in-picture mode when the user switches back and forth between this "
+"document and another document or application."
+msgstr "如果启用了此属性，则当用户在本文档和另一文档或应用程序之间来回切换时，该元素应自动切换图片中的模式。"
+
+#: src/blocks/video.js:115
+msgid ""
+"If this attribute is enabled, the browser will offer controls to allow the "
+"user to control video playback, including volume, seeking, and pause/resume "
+"playback."
+msgstr "如果启用此属性，将显示视频控制条，允许用户控制视频播放，包括音量、寻图和暂停/恢复播放。"
+
+#: src/blocks/video.js:388
+msgid "Image url"
+msgstr "图片地址"
+
+#: src/blocks/video.js:154
+msgid "Loop"
+msgstr "循环播放"
+
+#: src/blocks/video.js:162
+msgid "Muted"
+msgstr "静音"
+
+#: src/blocks/video.js:195
+msgid "No Download"
+msgstr "禁用下载按钮"
+
+#: src/blocks/video.js:203
+msgid "No Fullscreen"
+msgstr "禁止全屏播放"
+
+#: src/blocks/video.js:211
+msgid "No Remote Playback"
+msgstr "禁止远程播放"
+
+#: src/blocks/video.js:111
+msgid "Options Setting"
+msgstr "可选设置"
+
+#: src/blocks/video.js:114
+msgid "Playback Controls"
+msgstr "播放控制"
+
+#: src/blocks/video.js:170
+msgid "Plays Inline"
+msgstr "内联播放"
+
+#: src/blocks/video.js:100
+msgid "Poster Image"
+msgstr "海报图片"
+
+#: src/blocks/video.js:388
+msgid "Poster Image URL"
+msgstr "海报图像URL"
+
+#: src/blocks/video.js:220
+msgid "Preload"
+msgstr "预加载"
+
+#: src/blocks/video.js:123
+msgid ""
+"Prevents the browser from suggesting a Picture-in-Picture context menu or to "
+"request Picture-in-Picture automatically in some cases."
+msgstr "防止浏览器建议图片中的上下文菜单，或在某些情况下自动请求图片中的图片。"
+
+#: src/blocks/video.js:186
+msgid "Set video size manually"
+msgstr "手动设置视频尺寸"
+
+#. Description of the plugin
+#: src/index.js:138
+msgid "Simply protect your videos from being downloaded 'Directly'."
+msgstr "简单的保护您的视频不被普通用户“直接下载”。"
+
+#: src/blocks/video.js:345
+msgid "Source URL"
+msgstr "Source URL"
+
+#: src/blocks/video.js:92
+msgid "Temporarily disable Video Block."
+msgstr "临时禁用此视频块."
+
+#: src/blocks/video.js:196
+msgid ""
+"The NoDownload keyword hints that the download control should be hidden when "
+"using the user agent's own set of controls for the media element."
+msgstr "勾选后隐藏视频下载按钮。"
+
+#: src/blocks/video.js:204
+msgid ""
+"The NoFullScreen keyword hints that the fullscreen mode control should be "
+"hidden when using the user agent's own set of controls for the media element."
+msgstr "勾选后视频将禁止全屏播放。"
+
+#: src/blocks/video.js:212
+msgid ""
+"The NoRemotePlayback keyword hints that the remote playback control should "
+"be hidden when using the user agent's own set of controls for the media "
+"element."
+msgstr "NoRemote 播放回关键字提示，在使用用户代理自己的媒体元素控制集时，应隐藏远程播放控制。"
+
+#. Author of the plugin
+msgid "Tom Sneddon"
+msgstr "汤小贤"
+
+#: toms-video-player.php:34 toms-video-player.php:44
+msgid "TomS Blocks"
+msgstr ""
+
+#. Name of the plugin
+#: src/index.js:20 src/index.js:141
+msgid "TomS Video Player"
+msgstr "TomS视频播放器"
+
+#: src/blocks/video.js:348
+msgid "Type&Codecs"
+msgstr "Type&Codecs"
+
+#: src/blocks/video.js:91
+msgid "Video Block"
+msgstr "视频块"
+
+#: src/blocks/video.js:87
+msgid "Video Settings"
+msgstr "视频设置"
+
+#: src/blocks/video.js:345
+msgid "Video Url"
+msgstr "视频地址"
+
+#: src/blocks/video.js:352
+msgid "Width"
+msgstr "宽度"
+
+#: toms-video-player.php:179
+msgid "Your browser doesn't support HTML5 video."
+msgstr "您的浏览器不支持 HTML5 视频。"

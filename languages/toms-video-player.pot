@@ -1,0 +1,265 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: TomS Video Player\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-10-15 08:43+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.3; wp-5.8\n"
+"X-Domain: toms-video-player"
+
+#: src/blocks/video.js:138
+msgid "Auto Picture in picture"
+msgstr ""
+
+#: src/blocks/video.js:146
+msgid "AutoPlay"
+msgstr ""
+
+#: src/blocks/video.js:371
+msgid "Change a Video"
+msgstr ""
+
+#: src/blocks/video.js:400
+msgid "Change an image"
+msgstr ""
+
+#: src/blocks/video.js:371
+msgid "Choose a Video"
+msgstr ""
+
+#: src/blocks/video.js:400
+msgid "Choose an image"
+msgstr ""
+
+#: src/blocks/video.js:192
+msgid "Controls List Options"
+msgstr ""
+
+#: src/blocks/video.js:122
+msgid "Disabled Picture in picture"
+msgstr ""
+
+#: src/blocks/video.js:178
+msgid "Disabled Responsive Video Size"
+msgstr ""
+
+#: src/blocks/video.js:130
+msgid "Disabled Save video as..."
+msgstr ""
+
+#: src/blocks/video.js:348
+msgid "e.g. video/mp4"
+msgstr ""
+
+#: src/blocks/video.js:408
+msgid "Empty Poster image URL !"
+msgstr ""
+
+#: src/blocks/video.js:379
+msgid "Empty this video URL!"
+msgstr ""
+
+#: src/blocks/video.js:101
+msgid ""
+"Enabled this option, A URL for an image to be shown while the video is "
+"downloading. If this attribute isn't specified, nothing is displayed until "
+"the first frame is available, then the first frame is shown as the poster "
+"frame."
+msgstr ""
+
+#: src/blocks/video.js:147
+msgid ""
+"Enabled this option, the video automatically begins to play back as soon as "
+"it can do so without stopping to finish loading the data. This may cause "
+"usability issues for some users."
+msgstr ""
+
+#: src/blocks/video.js:353
+msgid "Height"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://TomSneddon.org"
+msgstr ""
+
+#: src/blocks/video.js:171
+msgid ""
+"If enabled this option that the video is to be played 'inline', that is "
+"within the element&apos;s playback area. Note that the absence of this "
+"attribute does not imply that the video will always be played in fullscreen."
+"Enable Video Auto Picture in picture"
+msgstr ""
+
+#: src/blocks/video.js:163
+msgid ""
+"If enabled, the audio will be initially silenced. Its default value is "
+"Disabled, meaning that the audio will be played when the video is played."
+msgstr ""
+
+#: src/blocks/video.js:155
+msgid ""
+"If enabled, the browser will automatically seek back to the start upon "
+"reaching the end of the video."
+msgstr ""
+
+#: src/blocks/video.js:131
+msgid "If enabled, the Video screens will not be able to right-click."
+msgstr ""
+
+#: src/blocks/video.js:179
+msgid "If enabled, will remove the responsive style from the video elememt"
+msgstr ""
+
+#: src/blocks/video.js:187
+msgid "If enabled, you can customize width and height in the video elememt"
+msgstr ""
+
+#: src/blocks/video.js:139
+msgid ""
+"If this attribute is enabled that the element should automatically toggle "
+"picture-in-picture mode when the user switches back and forth between this "
+"document and another document or application."
+msgstr ""
+
+#: src/blocks/video.js:115
+msgid ""
+"If this attribute is enabled, the browser will offer controls to allow the "
+"user to control video playback, including volume, seeking, and pause/resume "
+"playback."
+msgstr ""
+
+#: src/blocks/video.js:388
+msgid "Image url"
+msgstr ""
+
+#: src/blocks/video.js:154
+msgid "Loop"
+msgstr ""
+
+#: src/blocks/video.js:162
+msgid "Muted"
+msgstr ""
+
+#: src/blocks/video.js:195
+msgid "No Download"
+msgstr ""
+
+#: src/blocks/video.js:203
+msgid "No Fullscreen"
+msgstr ""
+
+#: src/blocks/video.js:211
+msgid "No Remote Playback"
+msgstr ""
+
+#: src/blocks/video.js:111
+msgid "Options Setting"
+msgstr ""
+
+#: src/blocks/video.js:114
+msgid "Playback Controls"
+msgstr ""
+
+#: src/blocks/video.js:170
+msgid "Plays Inline"
+msgstr ""
+
+#: src/blocks/video.js:100
+msgid "Poster Image"
+msgstr ""
+
+#: src/blocks/video.js:388
+msgid "Poster Image URL"
+msgstr ""
+
+#: src/blocks/video.js:220
+msgid "Preload"
+msgstr ""
+
+#: src/blocks/video.js:123
+msgid ""
+"Prevents the browser from suggesting a Picture-in-Picture context menu or to "
+"request Picture-in-Picture automatically in some cases."
+msgstr ""
+
+#: src/blocks/video.js:186
+msgid "Set video size manually"
+msgstr ""
+
+#. Description of the plugin
+#: src/index.js:138
+msgid "Simply protect your videos from being downloaded 'Directly'."
+msgstr ""
+
+#: src/blocks/video.js:345
+msgid "Source URL"
+msgstr ""
+
+#: src/blocks/video.js:92
+msgid "Temporarily disable Video Block."
+msgstr ""
+
+#: src/blocks/video.js:196
+msgid ""
+"The NoDownload keyword hints that the download control should be hidden when "
+"using the user agent's own set of controls for the media element."
+msgstr ""
+
+#: src/blocks/video.js:204
+msgid ""
+"The NoFullScreen keyword hints that the fullscreen mode control should be "
+"hidden when using the user agent's own set of controls for the media element."
+msgstr ""
+
+#: src/blocks/video.js:212
+msgid ""
+"The NoRemotePlayback keyword hints that the remote playback control should "
+"be hidden when using the user agent's own set of controls for the media "
+"element."
+msgstr ""
+
+#. Author of the plugin
+msgid "Tom Sneddon"
+msgstr ""
+
+#: toms-video-player.php:34 toms-video-player.php:44
+msgid "TomS Blocks"
+msgstr ""
+
+#. Name of the plugin
+#: src/index.js:20 src/index.js:141
+msgid "TomS Video Player"
+msgstr ""
+
+#: src/blocks/video.js:348
+msgid "Type&Codecs"
+msgstr ""
+
+#: src/blocks/video.js:91
+msgid "Video Block"
+msgstr ""
+
+#: src/blocks/video.js:87
+msgid "Video Settings"
+msgstr ""
+
+#: src/blocks/video.js:345
+msgid "Video Url"
+msgstr ""
+
+#: src/blocks/video.js:352
+msgid "Width"
+msgstr ""
+
+#: toms-video-player.php:179
+msgid "Your browser doesn't support HTML5 video."
+msgstr ""

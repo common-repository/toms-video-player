@@ -1,0 +1,111 @@
+{
+	"apiVersion": "2",
+	"name": "tomsneddon-video-player/toms-video-player",
+	"title": "TomS Video Player",
+	"category": "tomsneddon",
+	"description": "Simply protect your videos from being downloaded 'Directly'.",
+	"keywords": [ "toms video player" ],
+	"textdomain": "toms-video-player",
+	"attributes": {
+		"videoBlock": {
+            "type": "boolean",
+            "default": true
+        },
+        "videoAlignment": {
+            "type": "string", 
+            "default": "left"
+        },
+        "controls": {
+            "type": "boolean",
+            "default": true
+        },
+        "autoPictureInPicture": {
+            "type": "boolean",
+            "default": "undefined"
+        },
+        "disablePictureInPicture": {
+            "type": "boolean",
+            "default": true
+        },
+        "autoPlay": {
+            "type": "boolean",
+            "default": "undefined"
+        },
+        "loop": {
+            "type": "boolean",
+            "default": "undefined"
+        },
+        "muted": {
+            "type": "boolean",
+            "default": false
+        },
+        "playsInline": {
+            "type": "boolean",
+            "default": false
+        },
+        "noDownload": {
+            "type": "boolean",
+            "default": true
+        },
+        "noFullscreen": {
+            "type": "boolean",
+            "default": false
+        },
+        "noRemotePlayback": {
+            "type": "boolean",
+            "default": false
+        },
+        "preload": {
+            "type": "string",
+            "default": "metadata"
+        },
+        "disableSaveVideoAs": {
+            "type": "boolean",
+            "default": true
+        },
+        "posterLock":{
+            "type": "boolean",
+            "default": true
+        },
+        "posterImgId": {
+            "type": "number",
+            "default": 0
+        },
+        "posterImg": {
+            "type": "string",
+            "default": "undefined"
+        },
+        "videoId": {
+            "type": "number",
+            "default": 0
+        },
+        "videoSource": {
+            "type": "string",
+            "default": "undefined"
+        },
+        "videoType":{
+            "type": "string",
+            "default": "undefined"
+        },
+        "videoWidth": {
+            "type": "number"
+        },
+        "videoHeight": {
+            "type": "number"
+        },
+        "preview": {
+            "type": "boolean",
+            "default": false
+        },
+        "videoSize": {
+            "type": "boolean",
+            "default": false
+        },
+        "disabledResponsiveSize": {
+            "type": "boolean",
+            "default": false
+        }
+    },
+    "editorScript": "file:./build/index.js",
+    "editorStyle": "file:./build/index.css"
+}

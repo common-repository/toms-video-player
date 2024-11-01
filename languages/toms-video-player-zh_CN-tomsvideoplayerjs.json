@@ -1,0 +1,165 @@
+{
+    "translation-revision-date": "2021-10-15 08:53+0000",
+    "generator": "Loco https://localise.biz/",
+    "source": "src/blocks/video.js",
+    "domain": "toms-video-player",
+    "locale_data": {
+        "toms-video-player": {
+            "": {
+                "domain": "toms-video-player",
+                "lang": "zh_CN",
+                "plural-forms": "nplurals=1; plural=0;"
+            },
+            "Auto Picture in picture": [
+                "\u81ea\u52a8\u753b\u4e2d\u753b"
+            ],
+            "AutoPlay": [
+                "\u81ea\u52a8\u64ad\u653e"
+            ],
+            "Change a Video": [
+                "\u66f4\u6362\u89c6\u9891"
+            ],
+            "Change an image": [
+                "\u66f4\u6362\u56fe\u50cf"
+            ],
+            "Choose a Video": [
+                "\u9009\u62e9\u4e00\u4e2a\u89c6\u9891"
+            ],
+            "Choose an image": [
+                "\u9009\u62e9\u4e00\u4e2a\u56fe\u50cf"
+            ],
+            "Controls List Options": [
+                "Controls List \u9009\u9879"
+            ],
+            "Disabled Picture in picture": [
+                "\u7981\u7528\u753b\u4e2d\u753b"
+            ],
+            "Disabled Responsive Video Size": [
+                "\u7981\u7528\u89c6\u9891\u81ea\u9002\u5e94"
+            ],
+            "Disabled Save video as...": [
+                "\u7981\u7528\u89c6\u9891\u53e6\u5b58\u4e3a..."
+            ],
+            "e.g. video/mp4": [
+                "\u4f8b\u5982: video/mp4"
+            ],
+            "Empty Poster image URL !": [
+                "\u6e05\u7a7a\u56fe\u7247\u5730\u5740\uff01"
+            ],
+            "Empty this video URL!": [
+                "\u6e05\u7a7a\u89c6\u9891\u5730\u5740\uff01"
+            ],
+            "Enabled this option, A URL for an image to be shown while the video is downloading. If this attribute isn't specified, nothing is displayed until the first frame is available, then the first frame is shown as the poster frame.": [
+                "\u9009\u62e9\u4e00\u5f20\u56fe\u7247\u4f5c\u4e3a\u89c6\u9891\u6d77\u62a5."
+            ],
+            "Enabled this option, the video automatically begins to play back as soon as it can do so without stopping to finish loading the data. This may cause usability issues for some users.": [
+                "\u542f\u7528\u6b64\u9009\u9879\u540e\uff0c\u89c6\u9891\u4f1a\u5728\u4e0d\u505c\u6b62\u52a0\u8f7d\u6570\u636e\u7684\u60c5\u51b5\u4e0b\u7acb\u5373\u5f00\u59cb\u64ad\u653e\u3002"
+            ],
+            "Height": [
+                "\u9ad8\u5ea6"
+            ],
+            "If enabled this option that the video is to be played 'inline', that is within the element&apos;s playback area. Note that the absence of this attribute does not imply that the video will always be played in fullscreen.Enable Video Auto Picture in picture": [
+                "\u5982\u679c\u542f\u7528\u6b64\u9009\u9879\uff0c\u8be5\u89c6\u9891\u5c06\u64ad\u653e\"\u5185\u8054\"\uff0c\u5219\u4f4d\u4e8e\u5143\u7d20\u7684\u64ad\u653e\u533a\u57df\u5185\u3002\u8bf7\u6ce8\u610f\uff0c\u6b64\u5c5e\u6027\u7684\u7f3a\u5931\u5e76\u4e0d\u610f\u5473\u7740\u89c6\u9891\u5c06\u59cb\u7ec8\u5728\u5168\u5c4f\u4e0a\u64ad\u653e\u3002\u5728\u56fe\u7247\u4e2d\u542f\u7528\u89c6\u9891\u81ea\u52a8\u56fe\u7247"
+            ],
+            "If enabled, the audio will be initially silenced. Its default value is Disabled, meaning that the audio will be played when the video is played.": [
+                "\u5982\u679c\u542f\u7528\uff0c\u97f3\u9891\u5c06\u6700\u521d\u88ab\u9759\u97f3\u3002\u5176\u9ed8\u8ba4\u503c\u662f\u7981\u7528\u7684\uff0c\u8fd9\u610f\u5473\u7740\u5f53\u64ad\u653e\u89c6\u9891\u65f6\u5c06\u64ad\u653e\u97f3\u9891\u3002"
+            ],
+            "If enabled, the browser will automatically seek back to the start upon reaching the end of the video.": [
+                "\u5faa\u73af\u64ad\u653e\u89c6\u9891\u3002"
+            ],
+            "If enabled, the Video screens will not be able to right-click.": [
+                "\u5982\u679c\u542f\u7528\uff0c\u89c6\u9891\u754c\u9762\u5c06\u7981\u6b62\u9f20\u6807\u53f3\u952e\u3002"
+            ],
+            "If enabled, will remove the responsive style from the video elememt": [
+                "\u542f\u7528\u540e\uff0c\u5c06\u4ece\u89c6\u9891\u4e2d\u79fb\u9664\u81ea\u9002\u5e94\u6837\u5f0f"
+            ],
+            "If enabled, you can customize width and height in the video elememt": [
+                "\u542f\u7528\u540e\uff0c\u60a8\u53ef\u4ee5\u624b\u52a8\u8bbe\u7f6e\u89c6\u9891\u7684\u5bbd\u5ea6\u548c\u9ad8\u5ea6\uff0c\u60a8\u9700\u8981\u5f00\u542f\u7981\u7528\u89c6\u9891\u81ea\u9002\u5e94\uff0c \u5426\u5219\u4e0d\u4f1a\u6709\u4efb\u4f55\u6548\u679c\uff0c\u4f46\u662f\u4f1a\u6dfb\u52a0\u5bbd\u5ea6\u548c\u9ad8\u5ea6\u5c5e\u6027\u7ed9HTML5\u89c6\u9891\u5143\u7d20\u3002"
+            ],
+            "If this attribute is enabled that the element should automatically toggle picture-in-picture mode when the user switches back and forth between this document and another document or application.": [
+                "\u5982\u679c\u542f\u7528\u4e86\u6b64\u5c5e\u6027\uff0c\u5219\u5f53\u7528\u6237\u5728\u672c\u6587\u6863\u548c\u53e6\u4e00\u6587\u6863\u6216\u5e94\u7528\u7a0b\u5e8f\u4e4b\u95f4\u6765\u56de\u5207\u6362\u65f6\uff0c\u8be5\u5143\u7d20\u5e94\u81ea\u52a8\u5207\u6362\u56fe\u7247\u4e2d\u7684\u6a21\u5f0f\u3002"
+            ],
+            "If this attribute is enabled, the browser will offer controls to allow the user to control video playback, including volume, seeking, and pause/resume playback.": [
+                "\u5982\u679c\u542f\u7528\u6b64\u5c5e\u6027\uff0c\u5c06\u663e\u793a\u89c6\u9891\u63a7\u5236\u6761\uff0c\u5141\u8bb8\u7528\u6237\u63a7\u5236\u89c6\u9891\u64ad\u653e\uff0c\u5305\u62ec\u97f3\u91cf\u3001\u5bfb\u56fe\u548c\u6682\u505c/\u6062\u590d\u64ad\u653e\u3002"
+            ],
+            "Image url": [
+                "\u56fe\u7247\u5730\u5740"
+            ],
+            "Loop": [
+                "\u5faa\u73af\u64ad\u653e"
+            ],
+            "Muted": [
+                "\u9759\u97f3"
+            ],
+            "No Download": [
+                "\u7981\u7528\u4e0b\u8f7d\u6309\u94ae"
+            ],
+            "No Fullscreen": [
+                "\u7981\u6b62\u5168\u5c4f\u64ad\u653e"
+            ],
+            "No Remote Playback": [
+                "\u7981\u6b62\u8fdc\u7a0b\u64ad\u653e"
+            ],
+            "Options Setting": [
+                "\u53ef\u9009\u8bbe\u7f6e"
+            ],
+            "Playback Controls": [
+                "\u64ad\u653e\u63a7\u5236"
+            ],
+            "Plays Inline": [
+                "\u5185\u8054\u64ad\u653e"
+            ],
+            "Poster Image": [
+                "\u6d77\u62a5\u56fe\u7247"
+            ],
+            "Poster Image URL": [
+                "\u6d77\u62a5\u56fe\u50cfURL"
+            ],
+            "Preload": [
+                "\u9884\u52a0\u8f7d"
+            ],
+            "Prevents the browser from suggesting a Picture-in-Picture context menu or to request Picture-in-Picture automatically in some cases.": [
+                "\u9632\u6b62\u6d4f\u89c8\u5668\u5efa\u8bae\u56fe\u7247\u4e2d\u7684\u4e0a\u4e0b\u6587\u83dc\u5355\uff0c\u6216\u5728\u67d0\u4e9b\u60c5\u51b5\u4e0b\u81ea\u52a8\u8bf7\u6c42\u56fe\u7247\u4e2d\u7684\u56fe\u7247\u3002"
+            ],
+            "Set video size manually": [
+                "\u624b\u52a8\u8bbe\u7f6e\u89c6\u9891\u5c3a\u5bf8"
+            ],
+            "Source URL": [
+                "Source URL"
+            ],
+            "Temporarily disable Video Block.": [
+                "\u4e34\u65f6\u7981\u7528\u6b64\u89c6\u9891\u5757."
+            ],
+            "The NoDownload keyword hints that the download control should be hidden when using the user agent's own set of controls for the media element.": [
+                "\u52fe\u9009\u540e\u9690\u85cf\u89c6\u9891\u4e0b\u8f7d\u6309\u94ae\u3002"
+            ],
+            "The NoFullScreen keyword hints that the fullscreen mode control should be hidden when using the user agent's own set of controls for the media element.": [
+                "\u52fe\u9009\u540e\u89c6\u9891\u5c06\u7981\u6b62\u5168\u5c4f\u64ad\u653e\u3002"
+            ],
+            "The NoRemotePlayback keyword hints that the remote playback control should be hidden when using the user agent's own set of controls for the media element.": [
+                "NoRemote \u64ad\u653e\u56de\u5173\u952e\u5b57\u63d0\u793a\uff0c\u5728\u4f7f\u7528\u7528\u6237\u4ee3\u7406\u81ea\u5df1\u7684\u5a92\u4f53\u5143\u7d20\u63a7\u5236\u96c6\u65f6\uff0c\u5e94\u9690\u85cf\u8fdc\u7a0b\u64ad\u653e\u63a7\u5236\u3002"
+            ],
+            "Type&Codecs": [
+                "Type&Codecs"
+            ],
+            "Video Block": [
+                "\u89c6\u9891\u5757"
+            ],
+            "Video Settings": [
+                "\u89c6\u9891\u8bbe\u7f6e"
+            ],
+            "Video Url": [
+                "\u89c6\u9891\u5730\u5740"
+            ],
+            "Width": [
+                "\u5bbd\u5ea6"
+            ],
+            "Simply protect your videos from being downloaded 'Directly'.": [
+                "\u7b80\u5355\u7684\u4fdd\u62a4\u60a8\u7684\u89c6\u9891\u4e0d\u88ab\u666e\u901a\u7528\u6237\u201c\u76f4\u63a5\u4e0b\u8f7d\u201d\u3002"
+            ],
+            "TomS Video Player": [
+                "TomS\u89c6\u9891\u64ad\u653e\u5668"
+            ]
+        }
+    }
+}
